@@ -10,14 +10,14 @@ body {
 
 .caja1 {
     position: fixed;
-    top: 340px;
-    left: 600px;
+    top: 300px;
+    left: 500px;
 }
 
 .caja2 {
     position: fixed;
-    top: 340px;
-    left: 1100px;
+    top: 300px;
+    left: 1000px;
 }
 
 .titulo {
@@ -81,6 +81,7 @@ body {
     width: 100%;
     background: rgb(255, 255, 255);
     border: none;
+    border-radius: 4px;
     padding: 12px;
     color: rgb(0, 0, 0);
     margin: 15px 0;
